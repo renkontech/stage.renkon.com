@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrenkon=self.webpackChunkrenkon||[]).push([[678],{6558:function(n,e,u){u.r(e);var r=u(7294);e.default=function(){return r.createElement("main",null)}}}]);
+//# sourceMappingURL=component---src-pages-index-js-ec6a81ae1bb238e50a4b.js.map

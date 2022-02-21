@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-index-js-ec6a81ae1bb238e50a4b.js","mappings":"0HASA,UAPkB,WAChB,OACE","sources":["webpack://renkon/./src/pages/index.js"],"sourcesContent":["import * as React from \"react\"\n\nconst IndexPage = () => {\n  return (\n    <main>\n    </main>\n  )\n}\n\nexport default IndexPage\n"],"names":[],"sourceRoot":""}
