@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="1728" height="1728"><svg version="1.1" id="SvgjsSvg1000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1728 1728" style="enable-background:new 0 0 1728 1728;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#6CC2B3;}
+	.st1{fill:#FFFFFF;}
+</style>
+<g>
+	<path class="st0" d="M1491.7,0H236.3C105.8,0,0,105.8,0,236.3v1255.4C0,1622.2,105.8,1728,236.3,1728h1255.4
+		c130.5,0,236.3-105.8,236.3-236.3V236.3C1728,105.8,1622.2,0,1491.7,0z M975.5,1407.1l-149.8-348.5H706.9v348.5H377.9V320.9h579.7
+		c254,0,390.8,169.3,390.8,372.9c0,187.3-109.1,286.6-195.4,328.9l197,384.3H975.5z"></path>
+	<path class="st0" d="M907.1,594.5H706.9V785h200.3c55.4,0,107.5-35.8,107.5-96.1C1014.6,630.3,962.5,594.5,907.1,594.5z"></path>
+</g>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: contrast(1) brightness(1); } }
+@media (prefers-color-scheme: dark) { :root { filter: contrast(0.625) brightness(2.5); } }
+</style></svg>
