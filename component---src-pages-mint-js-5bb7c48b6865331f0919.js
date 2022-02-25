@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrenkon=self.webpackChunkrenkon||[]).push([[610],{2339:function(e,n,t){t.r(n);var l=t(7294),u=t(553);n.default=function(){return l.createElement(u.Z,null,l.createElement("h2",null,"Mint Page"),l.createElement("main",null))}}}]);
+//# sourceMappingURL=component---src-pages-mint-js-5bb7c48b6865331f0919.js.map
