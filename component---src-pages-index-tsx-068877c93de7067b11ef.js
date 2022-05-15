@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkrenkon=self.webpackChunkrenkon||[]).push([[691],{6738:function(n,e,t){t.r(e);var o=t(7294);e.default=function(){return"undefined"!=typeof window&&window.location.assign("/coming.html"),o.createElement(o.Fragment,null)}}}]);
-//# sourceMappingURL=component---src-pages-index-tsx-068877c93de7067b11ef.js.map
